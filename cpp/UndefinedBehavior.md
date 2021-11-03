@@ -1,4 +1,4 @@
-# Undefiend Behavior
+# Undefined Behavior
 
 *"Undefined behavior is the name of a list of conditions that the program must not meet."*  
 
