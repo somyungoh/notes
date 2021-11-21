@@ -13,4 +13,3 @@ $ ln -s "source (e.g Application)" "dest (e.g Desktop)"
 ```
 
 [Back to Home](./../README.md)
-

@@ -30,3 +30,5 @@ for (size_t i = SIZE_MAX; i >= 0; i--)
 ...
 ```
 In turns out to be that simply being able to handle more non-negitive integers so the range of loop is safe enough. HOWEVER, [this](https://www.quora.com/Why-do-some-C-programs-use-size_t-instead-of-int-What-are-the-advantages) Q&A warns about simply thinking `unsinged` as "non-negative" and use it in the corresponding context. It can easily violate the intention of the implementation, already can see in the example above. Can you spot the issue?
+
+[Back to Home](./../README.md)
