@@ -61,4 +61,5 @@ It's nicely protected from being eliminated by the compiler :)
 - [GG: Volatile qualifier C Part 2: Examples](https://www.geeksforgeeks.org/understanding-volatile-qualifier-in-c/)
 
 </br>
+
 [Back to Home](./../README.md)
